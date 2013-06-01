@@ -1,0 +1,21 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "grunt test",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "grunt watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kenty/grunt-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
