@@ -17,6 +17,12 @@
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-styleguide": "~0.2.5"
-  }
+    "grunt-styleguide": "~0.2.5",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-mincss": "~0.3.2"
+  },
+  "readme": "",
+  "readmeFilename": "README.md"
 }
